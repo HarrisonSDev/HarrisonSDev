@@ -49,8 +49,7 @@ que estou desenvolvendo.
 
 ## 🤝 Vamos nos conectar?
 
--   **LinkedIn:** [Adicione aqui o link do seu
-    LinkedIn](https://www.linkedin.com/)
+-   **LinkedIn:** www.linkedin.com/in/harrisonsoliveira(https://www.linkedin.com/)
 -   **GitHub:** [Meus repositórios](https://github.com/)
 
 ------------------------------------------------------------------------
