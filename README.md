@@ -50,7 +50,7 @@ que estou desenvolvendo.
 ## 🤝 Vamos nos conectar?
 
 -   **LinkedIn:** www.linkedin.com/in/harrisonsoliveira
--   **GitHub:** [Meus repositórios](https://github.com/)
+-   **GitHub:** [[Meus repositórios](https://github.com/)](https://github.com/HarrisonSDev?tab=repositories)
 
 ------------------------------------------------------------------------
 
